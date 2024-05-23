@@ -4,4 +4,6 @@ const port = 3000;
 
 app.get('/', (req, res) => res.send('Hello Banana!'));
 
+module.exports = app;
+
 app.listen(port, () => console.log(`Example app listening on port ${port}!`));
