@@ -1,0 +1,26 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "My first Jenkins project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itse8840/jenkins.git"
+  },
+  "author": "luboomka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itse8840/jenkins/issues"
+  },
+  "homepage": "https://github.com/itse8840/jenkins#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "supertest": "^7.0.0"
+  }
+}

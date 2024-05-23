@@ -1,3 +1,3 @@
 # jenkis
-CI/CD work flow 
-testing only
+CI/CD work flow test
+2024 May
