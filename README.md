@@ -1,2 +1,3 @@
 # jenkis
-CI/CD 
+CI/CD work flow 
+testing only
